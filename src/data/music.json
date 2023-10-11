@@ -1,0 +1,46 @@
+{
+  "music": [
+    {
+      "title": "song12",
+      "artist": "Artist z",
+      "album": "Album s",
+      "id": 1
+    },
+    {
+      "title": "song 444",
+      "artist": "",
+      "album": "",
+      "id": 19
+    },
+    {
+      "title": "yawiwe3",
+      "artist": "namu",
+      "album": "gurage",
+      "id": 22
+    },
+    {
+      "title": "gume gume",
+      "artist": "art",
+      "album": "gurage",
+      "id": 23
+    },
+    {
+      "title": "zzzzz",
+      "artist": "yyyy",
+      "album": "",
+      "id": 24
+    },
+    {
+      "title": "oromay",
+      "artist": "bealu girma",
+      "album": "",
+      "id": 25
+    },
+    {
+      "title": "welafen",
+      "artist": "abe",
+      "album": "",
+      "id": 26
+    }
+  ]
+}
